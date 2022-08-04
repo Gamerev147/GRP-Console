@@ -1,0 +1,3 @@
+/// @description Open Settings
+
+settings();
